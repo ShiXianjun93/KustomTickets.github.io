@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.9640caa5.css",
-    "main.js": "./static/js/main.8566cbbd.js",
+    "main.js": "./static/js/main.d645bb44.js",
     "static/media/kt-home-header-bg.png": "./static/media/kt-home-header-bg.0cc7342085c9f94c0968.png",
     "static/media/bg-header.png": "./static/media/bg-header.23a93a7a2497844887f4.png",
     "static/media/Inter-VariableFont_slnt,wght.ttf": "./static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
@@ -17,6 +17,7 @@
     "static/media/event-poster-18.png": "./static/media/event-poster-18.c85b7106eef0c329083b.png",
     "static/media/event-explore-1.jpg": "./static/media/event-explore-1.73fc865e8f1b1e02751b.jpg",
     "static/media/event-explore-2.jpg": "./static/media/event-explore-2.a0d4f6d3a0087d8036e2.jpg",
+    "static/media/elizeu-dias-aZ3qiq1eTRk-unsplash.png": "./static/media/elizeu-dias-aZ3qiq1eTRk-unsplash.67ae076821c66dbb038f.png",
     "static/media/event-poster-13.png": "./static/media/event-poster-13.cbecae36d93a6678226f.png",
     "static/media/event-explore-4.jpg": "./static/media/event-explore-4.d2de61d1c29d397ac58f.jpg",
     "static/media/event-explore-3.jpg": "./static/media/event-explore-3.9e53795089e8cc4a1acf.jpg",
@@ -91,21 +92,27 @@
     "static/media/icon-filter.svg": "./static/media/icon-filter.44094e2fd07a3b2e277aa68aabdfedaa.svg",
     "static/media/icon-basketball.svg": "./static/media/icon-basketball.5993a4b8e00c4c1643b8fe92ac3ffcca.svg",
     "static/media/icon-address.svg": "./static/media/icon-address.3f5d9b55c5b8ed465abf0a54bfe603fc.svg",
-    "static/media/icon-share.svg": "./static/media/icon-share.7c89ba47eefac6e1cbf7981d9c630d5b.svg",
+    "static/media/icon-like.svg": "./static/media/icon-like.2777d1f626df9845891aee1d1a9110a9.svg",
+    "static/media/icon-share.svg": "./static/media/icon-share.90f473c0129e7887c2a95d7e5422cc33.svg",
     "static/media/icon-list-layout.svg": "./static/media/icon-list-layout.853985488fadfa38347c8cff6ee38e8f.svg",
-    "static/media/icon-like.svg": "./static/media/icon-like.f74c9174d703eaff4b27a7c6da811d52.svg",
     "static/media/icon-search-button.svg": "./static/media/icon-search-button.773844a042cd30dd32362022f3434144.svg",
     "index.html": "./index.html",
     "static/media/icon-logout.svg": "./static/media/icon-logout.4328ca28233a30e2ccc5e54ba0363b79.svg",
+    "static/media/icon-filter-o.svg": "./static/media/icon-filter-o.eb827f7e3ea34d7f1f335e2d7ed16b69.svg",
     "static/media/icon-close-button.svg": "./static/media/icon-close-button.98919182165f4ff1f5a931fa2ba0aff7.svg",
+    "static/media/icon-carousel-arrow-right.svg": "./static/media/icon-carousel-arrow-right.60b8b5fa1af447ef3e26a3712e2358dd.svg",
+    "static/media/icon-arrow-circle-left.svg": "./static/media/icon-arrow-circle-left.953e1440e4a655b40409fe6db3942af4.svg",
+    "static/media/icon-arrow-circle-right.svg": "./static/media/icon-arrow-circle-right.98702f9e98433494c36722f4cd2117cf.svg",
+    "static/media/icon-carousel-arrow-left.svg": "./static/media/icon-carousel-arrow-left.f4992a3a763cc46577e3ebb2a1682090.svg",
     "static/media/icon-time.svg": "./static/media/icon-time.f27b503307ca7e51d7770eb970d9f22e.svg",
     "static/media/icon-menu.svg": "./static/media/icon-menu.2747cfdc5cacc6dc0a70dfcae6b4e142.svg",
+    "static/media/icon-arrow-right.svg": "./static/media/icon-arrow-right.85a8cc9fe80841c8f26b5bb343cec21f.svg",
     "static/media/icon-arrow.svg": "./static/media/icon-arrow.6c3bf9402ccc0c689f631e4c97fd1a80.svg",
     "main.9640caa5.css.map": "./static/css/main.9640caa5.css.map",
-    "main.8566cbbd.js.map": "./static/js/main.8566cbbd.js.map"
+    "main.d645bb44.js.map": "./static/js/main.d645bb44.js.map"
   },
   "entrypoints": [
     "static/css/main.9640caa5.css",
-    "static/js/main.8566cbbd.js"
+    "static/js/main.d645bb44.js"
   ]
 }
