@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.9640caa5.css",
-    "main.js": "./static/js/main.6ab51914.js",
+    "main.js": "./static/js/main.ba7b6d27.js",
     "static/media/kt-home-header-bg.png": "./static/media/kt-home-header-bg.0cc7342085c9f94c0968.png",
     "static/media/bg-header.png": "./static/media/bg-header.23a93a7a2497844887f4.png",
     "static/media/music-header-bg.jpg": "./static/media/music-header-bg.707852061ab49b44eebc.jpg",
     "static/media/Inter-VariableFont_slnt,wght.ttf": "./static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
     "static/media/humanoidSign-beyonce.png": "./static/media/humanoidSign-beyonce.ffe8897f75f8b1dee1f0.png",
-    "static/media/humanoidSign-taylor.png": "./static/media/humanoidSign-taylor.35dfca3fa208b2697be1.png",
+    "static/media/show-header-bg.png": "./static/media/show-header-bg.99ed9200b50468d3cd8a.png",
+    "static/media/sport-header-bg.png": "./static/media/sport-header-bg.892f26c8ccf0a56f7896.png",
     "static/media/event-poster-6.png": "./static/media/event-poster-6.9beb94c50e99b6d541c0.png",
     "static/media/event-poster-11.png": "./static/media/event-poster-11.858f067fea77d6313088.png",
+    "static/media/humanoidSign-taylor.png": "./static/media/humanoidSign-taylor.fb331a0f7fe4087f0db6.png",
     "static/media/event-poster-8.png": "./static/media/event-poster-8.509f0edb593166faa5d3.png",
     "static/media/event-poster-12.png": "./static/media/event-poster-12.06ca49b0503bee902f94.png",
     "static/media/event-poster-22.png": "./static/media/event-poster-22.a04db69c6f6dd55740bb.png",
@@ -143,10 +145,10 @@
     "static/media/icon-arrow.svg": "./static/media/icon-arrow.6c3bf9402ccc0c689f631e4c97fd1a80.svg",
     "static/media/icon-unselected-mark.svg": "./static/media/icon-unselected-mark.8253f39b242dea9c14c15895ac65961a.svg",
     "main.9640caa5.css.map": "./static/css/main.9640caa5.css.map",
-    "main.6ab51914.js.map": "./static/js/main.6ab51914.js.map"
+    "main.ba7b6d27.js.map": "./static/js/main.ba7b6d27.js.map"
   },
   "entrypoints": [
     "static/css/main.9640caa5.css",
-    "static/js/main.6ab51914.js"
+    "static/js/main.ba7b6d27.js"
   ]
 }
