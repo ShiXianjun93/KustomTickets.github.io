@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.9640caa5.css",
-    "main.js": "./static/js/main.37dcd038.js",
+    "main.js": "./static/js/main.8c10ef53.js",
     "static/media/kt-home-header-bg.png": "./static/media/kt-home-header-bg.0cc7342085c9f94c0968.png",
     "static/media/show-header-d-bg.png.png": "./static/media/show-header-d-bg.png.9547f6054b70ed3b1cfc.png",
     "static/media/bg-header.png": "./static/media/bg-header.23a93a7a2497844887f4.png",
@@ -73,13 +73,17 @@
     "static/media/icon-musical-select.svg": "./static/media/icon-musical-select.1999221fbe19c3d6eeb9.svg",
     "static/media/image-_mobile-nfl-h.png": "./static/media/image-_mobile-nfl-h.e591147bcc02ff6434e7.png",
     "static/media/icon-opera-select.svg": "./static/media/icon-opera-select.a6b88ae00a0c0b4d4679.svg",
+    "static/media/artists-pic-1.png": "./static/media/artists-pic-1.c6602e49759ba6cfac51.png",
     "static/media/image-_mobile-msl-h.png": "./static/media/image-_mobile-msl-h.11fd5f843773a93c283e.png",
     "static/media/event-poster-7.png": "./static/media/event-poster-7.0de66a44c3bfa96fe5c9.png",
     "static/media/image-_mobile-nfl-n.png": "./static/media/image-_mobile-nfl-n.27f1d7558c0d430daf16.png",
     "static/media/image-_mobile-mlb-h.png": "./static/media/image-_mobile-mlb-h.cb18b7278123a56c37ba.png",
     "static/media/header-benjamin-hayes.jpg": "./static/media/header-benjamin-hayes.d2ed22ff0a30209d7240.jpg",
     "static/media/image-_mobile-nba-h.png": "./static/media/image-_mobile-nba-h.dcbdf03591d843a921a0.png",
+    "static/media/artists-pic-6.png": "./static/media/artists-pic-6.4fc2c16b8c2d7cf2e659.png",
     "static/media/image-_mobile-msl-n.png": "./static/media/image-_mobile-msl-n.87c1ed5285aeb15d4c4c.png",
+    "static/media/artists-pic-4.png": "./static/media/artists-pic-4.094ed4506be38c6f7b8e.png",
+    "static/media/artists-pic-5.png": "./static/media/artists-pic-5.9d8372f741c546d80997.png",
     "static/media/image-_mobile-nhl-h.png": "./static/media/image-_mobile-nhl-h.50e2bf84cebe8be9e553.png",
     "static/media/image-_mobile-mlb-n.png": "./static/media/image-_mobile-mlb-n.7f7a9ee02b442d6a3b34.png",
     "static/media/header-beyonce.jpg": "./static/media/header-beyonce.debfa89e5030ad951ea2.jpg",
@@ -88,11 +92,13 @@
     "static/media/header-taylor-swift.jpg": "./static/media/header-taylor-swift.278b8cc454bf709f266a.jpg",
     "static/media/image-_mobile-nhl-n.png": "./static/media/image-_mobile-nhl-n.0e782e8b3f4267eff94c.png",
     "static/media/event-poster-2.png": "./static/media/event-poster-2.d97531f1a747689fb7ae.png",
+    "static/media/artists-pic-2.png": "./static/media/artists-pic-2.3adaf415d5fbcce1615d.png",
     "static/media/header-brandon-turner.jpg": "./static/media/header-brandon-turner.e37bbb6ae85b8005e8b2.jpg",
     "static/media/header-adrian-mitchell.jpg": "./static/media/header-adrian-mitchell.de49e74c9b89f5f27698.jpg",
     "static/media/header-adam-anderson.jpg": "./static/media/header-adam-anderson.207f0674f0e384d44265.jpg",
     "static/media/header-bradley-parker.jpg": "./static/media/header-bradley-parker.ac610f2dfd309f12ecea.jpg",
     "static/media/icon-nav-logo.svg": "./static/media/icon-nav-logo.94fe92e8db3a9d31544baab21848567a.svg",
+    "static/media/artists-pic-3.png": "./static/media/artists-pic-3.0f54c099f29d27e88900.png",
     "static/media/icon-pantomime-select.svg": "./static/media/icon-pantomime-select.5616211bcc0ed507462d.svg",
     "static/media/icon-standup-select.svg": "./static/media/icon-standup-select.d64859d7f9526c0d8969.svg",
     "static/media/icon-comedy-select.svg": "./static/media/icon-comedy-select.2fe53d928c49115f9e74.svg",
@@ -161,6 +167,7 @@
     "static/media/icon-filter-o.svg": "./static/media/icon-filter-o.eb827f7e3ea34d7f1f335e2d7ed16b69.svg",
     "static/media/icon-close-button.svg": "./static/media/icon-close-button.98919182165f4ff1f5a931fa2ba0aff7.svg",
     "static/media/icon-carousel-arrow-right.svg": "./static/media/icon-carousel-arrow-right.60b8b5fa1af447ef3e26a3712e2358dd.svg",
+    "static/media/icon-checkbox-s.svg": "./static/media/icon-checkbox-s.50cc75df3d1109f3250d56517b473e80.svg",
     "static/media/icon-arrow-circle-left.svg": "./static/media/icon-arrow-circle-left.953e1440e4a655b40409fe6db3942af4.svg",
     "static/media/icon-arrow-circle-right.svg": "./static/media/icon-arrow-circle-right.98702f9e98433494c36722f4cd2117cf.svg",
     "static/media/icon-arrow-bottom.svg": "./static/media/icon-arrow-bottom.06a6ef14305bbaf7a417e13ddf9b5a97.svg",
@@ -170,12 +177,13 @@
     "static/media/icon-menu.svg": "./static/media/icon-menu.2747cfdc5cacc6dc0a70dfcae6b4e142.svg",
     "static/media/icon-arrow-right.svg": "./static/media/icon-arrow-right.85a8cc9fe80841c8f26b5bb343cec21f.svg",
     "static/media/icon-arrow.svg": "./static/media/icon-arrow.6c3bf9402ccc0c689f631e4c97fd1a80.svg",
+    "static/media/icon-checkbox.svg": "./static/media/icon-checkbox.aec0ce1d8dcf93ba6341a900a64aba8d.svg",
     "static/media/icon-unselected-mark.svg": "./static/media/icon-unselected-mark.8253f39b242dea9c14c15895ac65961a.svg",
     "main.9640caa5.css.map": "./static/css/main.9640caa5.css.map",
-    "main.37dcd038.js.map": "./static/js/main.37dcd038.js.map"
+    "main.8c10ef53.js.map": "./static/js/main.8c10ef53.js.map"
   },
   "entrypoints": [
     "static/css/main.9640caa5.css",
-    "static/js/main.37dcd038.js"
+    "static/js/main.8c10ef53.js"
   ]
 }
