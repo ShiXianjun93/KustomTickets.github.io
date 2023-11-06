@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "./static/css/main.9640caa5.css",
-    "main.js": "./static/js/main.8c10ef53.js",
+    "main.js": "./static/js/main.1b68e280.js",
     "static/media/kt-home-header-bg.png": "./static/media/kt-home-header-bg.0cc7342085c9f94c0968.png",
     "static/media/show-header-d-bg.png.png": "./static/media/show-header-d-bg.png.9547f6054b70ed3b1cfc.png",
     "static/media/bg-header.png": "./static/media/bg-header.23a93a7a2497844887f4.png",
     "static/media/music-header-bg.jpg": "./static/media/music-header-bg.707852061ab49b44eebc.jpg",
     "static/media/Inter-VariableFont_slnt,wght.ttf": "./static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
+    "static/media/artist-header-background.png": "./static/media/artist-header-background.f8fc90b164ebae22114f.png",
     "static/media/humanoidSign-beyonce.png": "./static/media/humanoidSign-beyonce.ffe8897f75f8b1dee1f0.png",
     "static/media/show-header-bg.png": "./static/media/show-header-bg.99ed9200b50468d3cd8a.png",
     "static/media/sport-header-bg.png": "./static/media/sport-header-bg.892f26c8ccf0a56f7896.png",
@@ -180,10 +181,10 @@
     "static/media/icon-checkbox.svg": "./static/media/icon-checkbox.aec0ce1d8dcf93ba6341a900a64aba8d.svg",
     "static/media/icon-unselected-mark.svg": "./static/media/icon-unselected-mark.8253f39b242dea9c14c15895ac65961a.svg",
     "main.9640caa5.css.map": "./static/css/main.9640caa5.css.map",
-    "main.8c10ef53.js.map": "./static/js/main.8c10ef53.js.map"
+    "main.1b68e280.js.map": "./static/js/main.1b68e280.js.map"
   },
   "entrypoints": [
     "static/css/main.9640caa5.css",
-    "static/js/main.8c10ef53.js"
+    "static/js/main.1b68e280.js"
   ]
 }
